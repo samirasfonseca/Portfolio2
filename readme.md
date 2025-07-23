@@ -2,6 +2,10 @@
 
 ![Foto de Perfil](portfolio.png)
 
+
+## 🔗 **Acesse o portfólio online:** [Clique aqui](https://samirasfonseca.github.io/Portfolio2/)
+
+
 > Repositório do meu portfólio pessoal como desenvolvedora Front-End em formação. Este projeto apresenta minhas habilidades, experiências e principais projetos realizados com HTML, CSS e JavaScript.
 
 ---
