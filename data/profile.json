@@ -11,67 +11,97 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Git-Hub",
+        "logo": "https://github.com/images/modules/search/mona-love.png"
       },
       {
+        "name": "Nodejs",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+      },
+      {
+        "name": "css",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+      },
+       {
+        "name": "git",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/250px-Git-logo.svg.png"
+      }, {
+        "name": "typescript",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png"
+      }, {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Comunicação eficaz",
+      "Organização e gestão do tempo",
+      "Resolução de problemas",
+      "Proatividade",
+      "Inteligência emocional",
+      "Ética e responsabilidade",
+      "Trabalho em equipe"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português ",
+    "Inglês ",
+    "Espanhol "
+   
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "📺 Landing Page no Mundo Invertido",
+      "url": "https://github.com/samirasfonseca/LANDING-PAGE-MUNDO-INVERTIDO.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Landing Page The Boyse",
+      "url": "https://github.com/samirasfonseca/landing-page-the-boys.git",
+      "github": true
+    },
+     {
+      "name": "🌓 Formulário com Modo Dark/Light",
+      "url": "https://github.com/samirasfonseca/Formul-rio-Modo-DARK-e-LIGHT.git",
+      "github": true
+    },
+     {
+      "name": "🍔 Landing Page Restaurante",
+      "url": "https://github.com/samirasfonseca/Landing-page-Gastronomia.git",
+      "github": true
+    },
+     {
+      "name": "🌐 Clone da Landing Page Discord",
+      "url": "https://github.com/samirasfonseca/PROJETO-DIO-CLONANDO-UMA-PAGINA-DO-DISCORD.git",
+      "github": true
+    },
+     {
+      "name": "🧱 Jogo Detona Ralph",
+      "url": "https://github.com/samirasfonseca/PROJETO-JOGO-DETONA-RALPH.git",
+      "github": true
+    },
+     {
+      "name": "🎹 Piano Virtual",
+      "url": "https://github.com/samirasfonseca/PROJETO-DIO-PIANO-VIRTUAL.git",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Operadora de Caixa",
+      "period": "Inicio: 01/09/2011, Término: janeiro2012"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Operadora de SAC",
+      "period":Inicio: janeiro 2014, Término: abril 2015"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Costureira",
+      "period": "Inicio: 24/06/2017, Término: 05/06/2024."
     }
   ]
 }
